@@ -1,2 +1,2 @@
 # My-web
-It´s not ready...
+Download this raw file and open index.HTML!
